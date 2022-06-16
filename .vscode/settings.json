@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/f1d7f7af-b06c-4e7a-a518-27c81e89cb40/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/AkyoShopAdmin",
+    "appService.deploySubpath": "."
+}
